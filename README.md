@@ -1,3 +1,3 @@
-"# ZIGZAG-responsive-web" 
-"# ZIGZAG-responsive-web" 
-"# ZIGZAG-responsive-web" 
+This is Giselle sugyeong Kim's repository.<br>
+Welcome! <br>
+Take a look :)
